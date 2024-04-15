@@ -1,0 +1,174 @@
+body {
+    width: 100%;
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url(bg\ \(1\).jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: raleway;
+    margin: 0%;
+}
+
+header {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.boot {
+    font-weight: 800;
+    color: #E6A756;
+    font-size: 32px;
+}
+
+.casual {
+    font-weight: 100;
+    color: #F6E1C5;
+    font-size: 90px;
+}
+
+nav {
+    width: 100%;
+    background:  #2F170FE6;
+    color: #212529;
+    margin-top: 3%;
+    padding: 12px;
+}
+
+.cuk {
+    font-weight: 400;
+    list-style-type: none;
+    display: flex;
+    padding: 8px;
+}
+
+.cuk a {
+    text-decoration: none;
+    color: #FFFFFFB3;
+    padding: 24px;
+    font-weight: 800;
+}
+
+
+#am {
+    margin-left: 35%;
+}
+
+#cu {
+    margin-left: 32%;
+    margin-top: 3.5%;
+    position: relative;
+
+}
+
+#blt {
+    position: absolute;
+    top: 50px;
+    left: -275px;
+}
+
+#fc {
+font-size: 16px;
+font-weight: 800;
+color: #212529;
+}
+
+.wd {
+font-size: 48px;
+font-weight: 100;
+color: #212529;
+}
+
+#kuc {
+background-color: #F6E1C5;
+color: #212529;
+height: 38%;
+width: 31%;
+
+text-align: center;
+padding: 48px;
+
+border-radius: 5px;
+position: relative;
+
+}
+
+.p {
+    font-family: Lora;
+    font-size: 16px;
+    text-align: center;
+    line-height: 150%;
+}
+
+#yar {
+    font-size: 12.5px;
+    font-family: Lora;
+    height:20% ;
+    width:30% ;
+    border-radius: 5px;
+    background-color: #E6A756;
+    position: absolute;
+    top: 90%;
+    left: 32.5%;
+}
+
+#yar a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    padding: 24px 32px;
+}
+
+#part {
+    width: 100%;
+    height: 270px;
+    background-color: #E6A756E6;
+    margin: 80px 0px;
+    padding: 80px 0px;
+}
+
+#part2 {
+    width: 52%;
+    height: 305px;
+    background-color: #ebba7ae6;
+    margin-left: 23%;
+    padding: 3px 3px;
+    border-radius: 10px;
+}
+
+#part3 {
+    background-color: #f6E1C5;
+    padding: 6px;
+    border: 4px solid #E6A756E6;
+    border-radius: 10px;
+    height: 285px
+}
+
+#part3 h2 {
+    text-align: center;
+
+}
+
+#sp1 {
+font-weight: 800;
+font-size: 16px;
+}
+
+#sp2 {
+font-weight: 100;
+font-size: 48px;
+}
+
+footer {
+    width: 100%;
+    height: 90px;
+    background-color: #2F170FE6;
+    
+    text-align: center;
+    font-family: Lora;
+    color: #F6E1C5;
+
+    padding-top: 2%;
+
+    font-size: 14px;
+}
